@@ -3,10 +3,10 @@ a=int(a)
 b=input('Enter the second number: ')
 b=int(b)
 c=a+b
-print( 'Adiition: 'c)
+print( 'Adiition: ',c)
 c=a-b
-print( 'Subtraction: 'c)
+print( 'Subtraction: ',c)
 c=a*b
-print( 'Multiplication: 'c)
+print( 'Multiplication: ',c)
 c=a/b
-print( 'Division: 'c)       
+print( 'Division: ',c)       
